@@ -13,12 +13,14 @@ body{
   .header-logo {
     float: left;
     font-size: 36px;
-
+    padding-top:20px;
+    padding-left:10px;
   }
 
   .header-list{
+    font-size:30px;
     float:right;
-    padding-top:5px;
+    padding-top:40px;
     padding-right: 10px;
 }
 
