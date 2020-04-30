@@ -1,6 +1,7 @@
 /*タブ切り替え全体のスタイル*/
 body{
     font-family: "Avenir Next";
+    margin:0;
   }
 
   .header {
