@@ -2,19 +2,13 @@ body {
     font-family: "Avenir Next";
   }
   
-  .tabs {
-    background-color: #2f5167;
-    color: #fff;
-    height: 90px;
-  }
-  
 /*タブ切り替え全体のスタイル*/
 .tabs {
     margin-top: 50px;
     padding-bottom: 40px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    width: 1500px;
+    width: 700px;
     margin: 0 auto;}
   
   /*タブのスタイル*/
@@ -81,4 +75,8 @@ body {
     color: #fff;
     height: 90px;
     font-size: 32px;
+
+    position: absolute;
+    bottom:0;
+
   }
