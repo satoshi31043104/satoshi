@@ -6,6 +6,8 @@ body {
     background-color: #26d0c9;
     color: #fff;
     height: 90px;
+    margin:0;
+    position:absolute;
   }
 
 .header-logo {
@@ -16,6 +18,8 @@ body {
 
 .header-list{
     float:right;
+    padding-top:5px;
+    padding-right: 10px;
 }
 
 /*タブ切り替え全体のスタイル*/
@@ -92,5 +96,6 @@ body {
     height: 90px;
     font-size: 32px;
     padding:40px;
-
+    margin: 0;
+    position:absolute;
   }
