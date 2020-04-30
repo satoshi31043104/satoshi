@@ -3,6 +3,23 @@ body{
     font-family: "Avenir Next";
   }
 
+  .header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+  }
+
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+
+.header-list{
+    float:right;
+    padding-top:5px;
+    padding-right: 10px;
+}
 
 .tabs {
     margin-top: 50px;
