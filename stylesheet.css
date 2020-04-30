@@ -58,7 +58,7 @@ body{
   
   /*タブ切り替えの中身のスタイル*/
   .tab_content {
-    color:#f0f0f0;
+    color:#535353;
     display: none;
     padding: 40px 40px 0;
     clear: both;
@@ -87,4 +87,18 @@ body{
     font-size: 32px;
     padding:40px;
 
+  }
+  
+  .contents{
+      height:500px;
+      margin-top:100px;
+  }
+
+  .section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    color:#535353;
+    height:800px;
   }
