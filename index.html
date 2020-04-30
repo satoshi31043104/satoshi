@@ -6,19 +6,29 @@
   <script type="text/javascript" src="app.js"></script>
   <link rel = "stylesheet" href = "stylesheet.css"> 
 </head>
+
 <body>
-  <div id="app">
-    <h1>{{ message }}</h1>
+  <div class="header">
+    <div class="header-logo">home</div>
+    <div class="header-list">
+      <ul>
+        <li>schedule</li>
+        <li>login</li>
+        <li>logout</li>
+      </ul>
+    </div>
   </div>
-  <script>
-    
-var app = new Vue({
-    el: '#app',
-    data: {
-      message: 'Hello Vue!'
-    }
-  })
-  </script>
-  
+
+  <div class="main">
+    <div class="copy-container">
+      <h1>web開始1日目</h1>
+      <h2>トップページ作成</h2>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer-logo">web</div>
+    <div class="footer-list"></div>
+  </div>
 </body>
 </html>
