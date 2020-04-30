@@ -5,7 +5,7 @@ body{
   }
 
   .header {
-    background-color: #26d0c9;
+    background-color: #2f5167;
     color: #fff;
     height: 90px;
   }
@@ -83,9 +83,9 @@ body{
   .footer {
     background-color: #2f5167;
     color: #fff;
-    height: 40px;
+    height: 5px;
     font-size: 32px;
-    padding:40px;
+    padding:5px;
 
   }
   
@@ -98,7 +98,7 @@ body{
     border-bottom: 2px solid #dee7ec;
     font-size: 28px;
     padding-bottom: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     color:#535353;
 
   }
