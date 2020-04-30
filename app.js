@@ -1,4 +1,4 @@
-alert("Hello")
+alert("Hellooooooo")
 
 var app = new Vue({
     el: '#app',
