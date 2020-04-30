@@ -93,12 +93,20 @@ a:hover{
   .footer {
     background-color: #2f5167;
     color: #fff;
-    height: 5px;
+    height: 20px;
     font-size: 32px;
     padding:5px;
 
   }
   
+  .footer-list li{
+    float:right;
+    font-size:10px;
+    list-style:none;
+    padding-top:10px;
+    padding-right:10px;
+  }
+
   .contents{
       height:800px;
       
