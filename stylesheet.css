@@ -111,7 +111,6 @@ a:hover{
   }
 
   .contents{
-      margin:0;
       background-color: #fff;
   }
 
@@ -119,17 +118,16 @@ a:hover{
     border-bottom: 2px solid #dee7ec;
     font-size: 28px;
     padding-bottom: 10px;
-    padding-left:10px;
-    
+    text-align:center;
     color:#535353;
   }
 
   .contents-item{
     color:#636363;
     font-size: 18px;
-    padding-left:10px;
     min-height:100vh;
     position:relative;
     padding-bottom:25px;
     box-sizing:border-box;
+    text-align:center;
   }
