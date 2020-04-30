@@ -9,17 +9,18 @@ body{
     height: 90px;
   }
 
-.header-logo {
+  .header-logo {
     float: left;
     font-size: 36px;
-    padding: 20px 40px;
+
   }
 
-.header-list{
+  .header-list{
     float:right;
     padding-top:5px;
     padding-right: 10px;
 }
+
 
 .tabs {
     margin-top: 50px;
@@ -76,4 +77,13 @@ body{
   .tabs input:checked + .tab_item {
     background-color: #5ab4bd;
     color: #fff;
+  }
+
+  .footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 40px;
+    font-size: 32px;
+    padding:40px;
+
   }
