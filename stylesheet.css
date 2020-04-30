@@ -111,15 +111,25 @@ a:hover{
   }
 
   .contents{
-      height:800px;
-      
+      margin:0;
+      background-color: #fff;
   }
 
   .section-title {
     border-bottom: 2px solid #dee7ec;
     font-size: 28px;
     padding-bottom: 10px;
-    margin-bottom: 50px;
+    padding-left:10px;
+    
     color:#535353;
+  }
 
+  .contents-item{
+    color:#636363;
+    font-size: 18px;
+    padding-left:10px;
+    min-height:100vh;
+    position:relative;
+    padding-bottom:25px;
+    box-sizing:border-box;
   }
