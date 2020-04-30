@@ -3,23 +3,6 @@ body{
     font-family: "Avenir Next";
   }
 
-.header {
-    background-color: #2f5167;
-    color: #fff;
-    height: 70px;
-  }
-
-.header-logo {
-    float: left;
-    font-size: 36px;
-    padding: 20px;
-  }
-
-.header-list{
-    float:right;
-    padding-top:30px;
-    padding-right: 10px;
-}
 
 .tabs {
     margin-top: 50px;
@@ -76,13 +59,4 @@ body{
   .tabs input:checked + .tab_item {
     background-color: #5ab4bd;
     color: #fff;
-  }
-
-  .footer {
-    background-color: #2f5167;
-    color: #fff;
-    
-    font-size: 9px;
-    padding:5px;
-
   }
